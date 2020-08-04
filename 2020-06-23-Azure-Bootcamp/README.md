@@ -15,3 +15,5 @@ Do you want to speak at our events? Submit your proposal here: https://aka.ms/sp
 
 LinkedIn event page: https://www.linkedin.com/events/virtualdata-aimeetup-azurebootcamp/  
 Meetup event page: https://www.meetup.com/de-DE/Frankfurt-Analytics/events/270951138/
+
+Session recording: https://youtu.be/pjwXGEJYBlg
