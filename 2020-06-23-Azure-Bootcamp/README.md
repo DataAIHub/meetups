@@ -9,11 +9,10 @@ Agenda:
 4. Azure Synapse Analytics
 5. Visual Analytics with Power BI on Azure
 
-Note: this event may be recorded.
-
-Do you want to speak at our events? Submit your proposal here: https://aka.ms/speakAI
+Recap blog post: https://alexloth.com/2020/06/24/recap-of-the-16th-data-ai-meetup-azure-bootcamp/  
+Session recording: https://youtu.be/pjwXGEJYBlg
 
 LinkedIn event page: https://www.linkedin.com/events/virtualdata-aimeetup-azurebootcamp/  
 Meetup event page: https://www.meetup.com/de-DE/Frankfurt-Analytics/events/270951138/
 
-Session recording: https://youtu.be/pjwXGEJYBlg
+Do you want to speak at our events? Submit your proposal here: https://aka.ms/speakAI
