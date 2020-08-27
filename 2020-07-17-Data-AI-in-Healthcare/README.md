@@ -18,3 +18,4 @@ LinkedIn event page: https://www.linkedin.com/events/virtualdata-aimeetup/
 Meetup event page: https://www.meetup.com/de-DE/Frankfurt-Analytics/events/270291331/
 
 Session recording: https://youtu.be/L8iR1tSjpcQ
+Recap blog post: https://alexloth.com/2020/08/27/recap-of-the-17th-data-ai-meetup-data-ai-in-healthcare/
