@@ -21,8 +21,8 @@ Get the Big Book of Dashboards: https://amzn.to/3x2Q10R
 
 Do you want to speak at our events? Submit your proposal here: https://aka.ms/speakAI
 
-LinkedIn event page: https://www.linkedin.com/events/19thdata-aimeetup6719887484429328385/
+LinkedIn event page: https://www.linkedin.com/events/19thdata-aimeetup6719887484429328385/  
 Meetup event page: https://www.meetup.com/de-DE/Frankfurt-Analytics/events/273792129/
 
-Session recording: https://youtu.be/nttn_IKdGFc
+Session recording: https://youtu.be/nttn_IKdGFc  
 Recap blog post: https://alexloth.com/meetup-19-chart-choice-anomaly-detection-for-warranty-cases/
