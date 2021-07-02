@@ -14,9 +14,9 @@ and Frank Schlemmbach, Sr. Consultant at ATCS
 and Sven Sommerfeld, Managing Director at ATCS
 5. Wrap-up
 
-+++ This event is supported by Wiley. +++
-Get the Decisively Digital book: https://amzn.to/3uEzhMP
-Get the Visual Analytics book: https://amzn.to/3iuzoa6
++++ This event is supported by Wiley. +++  
+Get the Decisively Digital book: https://amzn.to/3uEzhMP  
+Get the Visual Analytics book: https://amzn.to/3iuzoa6  
 Get the Big Book of Dashboards: https://amzn.to/3x2Q10R
 
 Do you want to speak at our events? Submit your proposal here: https://aka.ms/speakAI
