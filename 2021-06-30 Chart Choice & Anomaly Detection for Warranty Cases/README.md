@@ -24,5 +24,5 @@ Do you want to speak at our events? Submit your proposal here: https://aka.ms/sp
 LinkedIn event page: https://www.linkedin.com/events/19thdata-aimeetup6719887484429328385/  
 Meetup event page: https://www.meetup.com/de-DE/Frankfurt-Analytics/events/273792129/
 
-Session recording: https://youtu.be/nttn_IKdGFc  
+Session recording: https://youtu.be/MMZd9Bn7TEU  
 Recap blog post: https://alexloth.com/meetup-19-chart-choice-anomaly-detection-for-warranty-cases/
